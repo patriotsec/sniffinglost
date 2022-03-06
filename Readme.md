@@ -5,7 +5,7 @@
 - [ ] No Support Python2
 
 
-- [x] **Support Linux**
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
 
 
