@@ -5,4 +5,4 @@
 - [ ] No Support Python2
 
 
-**Support Linux:**
+- [x] Support Linux**
