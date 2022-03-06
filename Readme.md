@@ -10,7 +10,10 @@
 ### sudo apt-get install python3
 ### pip3 install scapy
 ### pip3 install colorama
-### 
+### git clone https://github.com/patriotsec/sniffinglost.git
+### cd sniffinglost
+### chmod +x sniff.py
+### ./sniff.py -h
 
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
