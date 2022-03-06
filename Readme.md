@@ -1,8 +1,7 @@
 > Network Sniffing Toolkit`.
 
-- [x] Sniffing & Spoofing Network Fast
-- [x] Python3.8xx Version
-- [ ] No Support Python2
+- [x] Sniffing & Spoofing Network MITM
+- [x] Python2.7 && Python3.8xx Version
 
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)         
